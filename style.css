@@ -15,6 +15,7 @@ Rock{The Code} Giuseppe Allocca 2023
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
   padding-bottom: 30px;
+  padding-top: 30px;
 }
 #logo img {
   max-width: 20%;
@@ -37,6 +38,7 @@ h3 {
   width: 100%;
   text-align: center;
   vertical-align: middle;
+  border-radius: 10px;
 }
 #image {
   width: 50%;
